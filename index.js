@@ -1,3 +1,1 @@
-console.log("Hi Max");
-
-
+console.log("Hi Max!");

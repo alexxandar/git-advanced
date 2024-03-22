@@ -1,1 +1,2 @@
-console.log("Hi Flamingos");
+console.log("Hi Max!");
+

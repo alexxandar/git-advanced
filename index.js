@@ -1,2 +1,2 @@
-console.log("Hi Max!");
+console.log("Hello from Greeting!");
 

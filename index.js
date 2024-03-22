@@ -1,2 +1,2 @@
-console.log("Hello from Greeting!");
+console.log("Hello from Master!");
 
